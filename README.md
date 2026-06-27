@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vya234/lc_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0207-course-schedule](https://github.com/Vya234/lc_solutions/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/Vya234/lc_solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Vya234/lc_solutions/tree/master/0437-path-sum-iii) |
 | [0785-is-graph-bipartite](https://github.com/Vya234/lc_solutions/tree/master/0785-is-graph-bipartite) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Vya234/lc_solutions/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Vya234/lc_solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Vya234/lc_solutions/tree/master/0802-find-eventual-safe-states) |
 ## Union-Find
@@ -83,10 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Vya234/lc_solutions/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Vya234/lc_solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Vya234/lc_solutions/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Vya234/lc_solutions/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/Vya234/lc_solutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
