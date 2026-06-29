@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0754-reach-a-number](https://github.com/Vya234/lc_solutions/tree/master/0754-reach-a-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Vya234/lc_solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vya234/lc_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Binary Search
+|  |
+| ------- |
+| [0754-reach-a-number](https://github.com/Vya234/lc_solutions/tree/master/0754-reach-a-number) |
 <!---LeetCode Topics End-->
