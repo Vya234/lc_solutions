@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Vya234/lc_solutions/tree/master/0032-longest-valid-parentheses) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Vya234/lc_solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Vya234/lc_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Vya234/lc_solutions/tree/master/0257-binary-tree-paths) |
 | [0763-partition-labels](https://github.com/Vya234/lc_solutions/tree/master/0763-partition-labels) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vya234/lc_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/Vya234/lc_solutions/tree/master/0763-partition-labels) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Vya234/lc_solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
