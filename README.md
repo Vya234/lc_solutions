@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/Vya234/lc_solutions/tree/master/0396-rotate-function) |
 | [0754-reach-a-number](https://github.com/Vya234/lc_solutions/tree/master/0754-reach-a-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Vya234/lc_solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Vya234/lc_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0396-rotate-function](https://github.com/Vya234/lc_solutions/tree/master/0396-rotate-function) |
 | [3620-network-recovery-pathways](https://github.com/Vya234/lc_solutions/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Vya234/lc_solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## String
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/Vya234/lc_solutions/tree/master/0396-rotate-function) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vya234/lc_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vya234/lc_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vya234/lc_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
