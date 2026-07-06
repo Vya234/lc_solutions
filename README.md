@@ -180,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vya234/lc_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Vya234/lc_solutions/tree/master/3620-network-recovery-pathways) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Vya234/lc_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
