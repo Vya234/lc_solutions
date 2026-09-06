@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Vya234/lc_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Vya234/lc_solutions/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/Vya234/lc_solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Vya234/lc_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Vya234/lc_solutions/tree/master/0877-stone-game) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Vya234/lc_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Vya234/lc_solutions/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/Vya234/lc_solutions/tree/master/0257-binary-tree-paths) |
 | [0763-partition-labels](https://github.com/Vya234/lc_solutions/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vya234/lc_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
