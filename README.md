@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vya234/lc_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/Vya234/lc_solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Vya234/lc_solutions/tree/master/0437-path-sum-iii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vya234/lc_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Vya234/lc_solutions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Vya234/lc_solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Vya234/lc_solutions/tree/master/0802-find-eventual-safe-states) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vya234/lc_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vya234/lc_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vya234/lc_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Vya234/lc_solutions/tree/master/3310-remove-methods-from-project) |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vya234/lc_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/Vya234/lc_solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Vya234/lc_solutions/tree/master/0437-path-sum-iii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vya234/lc_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Math
 |  |
 | ------- |
