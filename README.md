@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Vya234/lc_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Vya234/lc_solutions/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/Vya234/lc_solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Vya234/lc_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Vya234/lc_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Vya234/lc_solutions/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/Vya234/lc_solutions/tree/master/0856-score-of-parentheses) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vya234/lc_solutions/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Vya234/lc_solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Vya234/lc_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Vya234/lc_solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Vya234/lc_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Array
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Vya234/lc_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vya234/lc_solutions/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Vya234/lc_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0684-redundant-connection](https://github.com/Vya234/lc_solutions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Vya234/lc_solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Vya234/lc_solutions/tree/master/0802-find-eventual-safe-states) |
